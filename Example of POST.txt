@@ -1,0 +1,20 @@
+{
+    "session_id": "3428960483258654186.1635599987.1635599987",
+    "client_id": "798367076.1635507690",
+    "visit_date": "2021-10-30",
+    "visit_time": "16:19:47",
+    "visit_number": 2,
+    "utm_source": "jaSOmLICuBzCFqHfBdRg",
+    "utm_medium": "email",
+    "utm_campaign": "bxOTvPtyGSdUrbwoXCPO",
+    "utm_adcontent": "JNHcPlZPxEMWDnRiyoBf",
+    "utm_keyword": "puhZPIYqKXeFPaUviSjo",
+    "device_category": "mobile",
+    "device_os": "Android",
+    "device_brand": "Xiaomi",
+    "device_model": null,
+    "device_screen_resolution": "393x851",
+    "device_browser": "Chrome",
+    "geo_country": "Russia",
+    "geo_city": "Ufa"
+}
